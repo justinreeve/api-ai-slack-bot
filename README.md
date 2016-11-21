@@ -125,3 +125,4 @@ And sends it to Api.ai:
 If a non-empty response is received from Api.ai, the bot will respond with the received text:
 
 `bot.reply(message, responseText);`
+
